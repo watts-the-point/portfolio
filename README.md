@@ -3,4 +3,4 @@ I'm still learning how to set up a Github Pages site. I'm hoping this will help 
 
 # Projects
 
-### [Plotting Corruption and Human Development]{https://watts-the-point.github.io/portfolio/economist_viz.html)
+### [Plotting Corruption and Human Development](https://watts-the-point.github.io/portfolio/economist_viz.html)
